@@ -1,4 +1,4 @@
-import { imageGridCards } from "../Utils/foodData.jsx"
+import { imageGridCards } from "../utils/foodData.jsx"
 import Foodcard from "./FoodCard"
 
 export default function FoodOption(){
