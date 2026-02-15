@@ -1,1 +1,5 @@
-/api/* https://www.swiggy.com/:splat  200
+# Rule for the Restaurants List (dapi)
+/dapi/* https://www.swiggy.com/dapi/:splat  200
+
+# Rule for the Menu (mapi)
+/mapi/* https://www.swiggy.com/mapi/:splat  200
