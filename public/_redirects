@@ -1,5 +1,11 @@
-# Rule for the Restaurants List (dapi)
-/dapi/* https://www.swiggy.com/dapi/:splat  200
+[[redirects]]
+from = "/dapi/*"
+to = "https://www.swiggy.com/dapi/:splat"
+status = 200
+force = true
 
-# Rule for the Menu (mapi)
-/mapi/* https://www.swiggy.com/mapi/:splat  200
+[[redirects]]
+from = "/mapi/*"
+to = "https://www.swiggy.com/mapi/:splat"
+status = 200
+force = true
