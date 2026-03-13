@@ -39,9 +39,9 @@ export default function Header(){
                 <a href="https://www.swiggy.com/dineout">
                     <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/8/1/76c30e5a-8adb-4795-bf5b-fa64e9e9e1d3_DO4BU.png"></img>
                 </a>
-                <a href="https://www.swiggy.com/genie">
+                {/* <a href="https://www.swiggy.com/genie">
                     <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/31/14033c0b-8907-420b-b72a-d26cfa68dc7b_Genie4BU.png"></img>
-                </a>
+                </a> */}
 
             </div>
         </header>
